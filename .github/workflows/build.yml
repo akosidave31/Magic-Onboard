@@ -15,5 +15,5 @@ jobs:
       - run: gradle assembleDebug
       - uses: actions/upload-artifact@v4
         with:
-          name: tlstunnel-debug
+          name: magic-onboard-debug
           path: app/build/outputs/apk/debug/*.apk

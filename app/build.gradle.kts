@@ -6,7 +6,7 @@ android {
     namespace = "com.akosidave.tlstunnel"
     compileSdk = 35
     defaultConfig {
-        applicationId = "com.akosidave.tlstunnel"
+        applicationId = "com.akosidave.magiconboard"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
